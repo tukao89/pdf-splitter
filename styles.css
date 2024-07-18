@@ -1,0 +1,20 @@
+﻿body { font-size: 16px; }
+.pdf-page { max-width: 100px; margin: 5px; }
+
+.range-input { align-items: flex-end; background: #fff; padding: 10px; border: solid 1px #ccc; border-radius: 5px; }
+
+#pdf-preview { border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #fff; }
+
+#download-links a { display: block; margin-top: 10px; }
+.inputfile-2 { width: 0.1px; height: 0.1px; opacity: 0; overflow: hidden; position: absolute; z-index: -1; }
+    .inputfile-2 + label { max-width: 270px; font-size: 1.25rem; font-weight: 700; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; display: inline-block; overflow: hidden; padding: 0.625rem 1.25rem; }
+    .inputfile-2 + label { color: #d3394c; border: 2px solid currentColor; }
+        .inputfile-2 + label svg { width: 1em; height: 1em; vertical-align: middle; fill: currentColor; margin-top: -0.25em; margin-right: 0.25em; }
+
+.step { min-height: 500px; padding: 20px; border: solid 1px #999; border-radius: 15px; background: #f7f7f7; }
+#step-1 { display: flex; align-items: center; justify-content: center; text-align: center; flex-direction: column; }
+.range-input .form-group { margin-bottom: 0; }
+.range-input .range-name { font-weight: bold; display: inline-block; width: 60px; background: #ddd; text-align: center; height: 68px; line-height: 68px; font-size: 40px; color: #ccc; border-radius: 3px; }
+.pdf-page-container img { border: solid 2px #ccc; }
+.split-functions { border-top: solid 1px #ccc; padding-top: 20px; }
+#step-3 { text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; }
