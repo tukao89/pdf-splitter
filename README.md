@@ -1,5 +1,4 @@
-**PDF Splitter Tool**
-This tool allows you to split large PDF files into smaller, more manageable pieces. You can upload your PDF file, preview it, and set up ranges to split the file. This tool is particularly useful for students, professionals, and anyone who needs to handle large PDF documents.
+**PDF Splitter Tool** allows you to split large PDF files into smaller, more manageable pieces. You can upload your PDF file, preview it, and set up ranges to split the file. This tool is particularly useful for students, professionals, and anyone who needs to handle large PDF documents.
 
 Use cases include splitting eBooks into chapters, dividing long reports into sections, or extracting specific pages from a PDF for presentations or assignments.
 
